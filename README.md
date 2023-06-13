@@ -1,3 +1,5 @@
+#LIVE LINK: https://mom-network.herokuapp.com/
+
 # Mom-Network
 Portfolio Project nr. 5 for Code Institute Assessment. Mom Network - Communication Tool for Busy Mothers.
 
@@ -17,7 +19,7 @@ The data is presented in a way that makes it easy for users to find what they're
 - Django REST Framework
 
 
-### Project Idea: Content platform
+### Project Idea: Content Platform
 
 Create a community-based publishing platform to share ideas, stories, tutorials and journalistic articles. Now that you're a fully-fledged web developer you've decided it's probably time for you to start your very own cool, modern content platform, offering a publishing portal to a global audience. To provide the best user experience, the platform will be available via a browser-based interface.
 
